@@ -132,10 +132,16 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ang3lRamos&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ang3lRamos&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ang3lRamos&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ang3lRamos&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ang3lRamos&theme=tokyonight" />
 
 </div>
+
+
+
 
 ---
 
