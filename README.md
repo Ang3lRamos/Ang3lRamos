@@ -1,16 +1,128 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ang3lRamos/Ang3lRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:F97316&height=200&section=header&text=Angel%20Ramos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-Here are some ideas to get you started:
+### 📊 Data Analyst | BI Developer | Jr Data Engineer | Software Developer  
+📍 Medellín, Colombia 🇨🇴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-F97316?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolioangeldev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Ramos-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/angel-ramos-528974231)
+[![GitHub](https://img.shields.io/badge/GitHub-Ang3lRamos-111827?style=for-the-badge&logo=github)](https://github.com/Ang3lRamos)
+[![Email](https://img.shields.io/badge/Email-angelf.ramosc%40unac.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelf.ramosc@unac.edu.co)
+
+</div>
+
+---
+
+## 👋 About Me  
+
+🚀 I’m **Angel Ramos**, a Data Analyst and Software Developer with **2+ years of experience** building end-to-end analytical solutions.  
+I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, dashboards, and ETL pipelines that improve business decision-making.
+
+💡 I enjoy transforming raw data into valuable insights and building tools that reduce manual work.
+
+---
+
+## 🧠 Tech Stack  
+
+<div align="center">
+
+### 📌 Data & BI
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure" />
+<br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
+<img src="https://img.shields.io/badge/DAX-111827?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+### ⚙️ Data Engineering & Cloud
+<img src="https://skillicons.dev/icons?i=azure,aws,redis" />
+<br/>
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+### 💻 Backend & Development
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,typescript,java" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects  
+
+📌 Some projects that represent my strongest work:
+
+- 🤖 **Academic Chatbot with RAG (LLM)**  
+  _Next.js | n8n | Supabase | Redis_  
+  → Smart chatbot using RAG architecture and workflow automation.
+
+- 📊 **Power BI Analytics Dashboard (Big Data)**  
+  _Databricks | Spark | Python | Power BI_  
+  → Dashboard built from large datasets using Spark processing.
+
+- 🧪 **Data Cleaning & Validation Pipeline**  
+  _Python | Pandas | SQL | Pytest_  
+  → Automated cleaning and validation with unit testing for quality assurance.
+
+---
+
+## 📌 Professional Experience  
+
+- 🏦 **Data Analyst – Bancolombia** (Jan 2025 – Jun 2025)  
+  - Built 15+ dashboards in Power BI  
+  - Automated ETL with Python + SQL  
+  - Optimized SQL queries improving performance by 60%  
+  - Integrated multiple sources using Azure Data Factory  
+
+- 📦 **Operations Analyst – Inversiones Manpe** (Oct 2025 – Dec 2025)  
+  - Managed inventory analytics (500+ SKUs)  
+  - Automated workflows with Python & Excel  
+  - Built operational dashboards for KPI tracking  
+
+- 🌍 **Freelance Data Analyst & Software Developer** (Feb 2024 – Oct 2024)  
+  - Delivered 8+ automation and analytics projects  
+  - Reduced manual reporting by 15+ hours weekly  
+  - Built end-to-end solutions (Python → SQL → Power BI)
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ang3lRamos&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ang3lRamos&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Certifications  
+
+✅ Data Analysis – Udemy  
+✅ Python for Data Science – Udemy  
+✅ Power BI – Udemy  
+✅ Agile & Scrum – Udemy  
+✅ Web Development Fundamentals – Egg Cooperation  
+
+---
+
+## 📫 Let's Connect  
+
+If you're looking for someone skilled in **Data Analytics, BI Dashboards, SQL Optimization, ETL Automation, or Python Development**, feel free to reach out 🚀  
+
+📩 **Email:** angelf.ramosc@unac.edu.co  
+🔗 **LinkedIn:** https://linkedin.com/in/angel-ramos-528974231  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:1E3A8A&height=120&section=footer" />
+
+</div>
