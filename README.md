@@ -33,21 +33,58 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
 
 <div align="center">
 
-### 📌 Data & BI
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure" />
-<br/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
-<img src="https://img.shields.io/badge/DAX-111827?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+### 📊 Data Analytics & BI
 
-### ⚙️ Data Engineering & Cloud
-<img src="https://skillicons.dev/icons?i=azure,aws,redis" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
+  <img src="https://img.shields.io/badge/DAX-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-008272?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+---
+
+### ⚙️ Data Engineering & Big Data
+<img src="https://skillicons.dev/icons?i=azure,aws,docker" />
 <br/>
 <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+---
+
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+<br/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+---
+
+### 🤖 AI / LLM Tools
+<img src="https://skillicons.dev/icons?i=python" />
+<br/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-1E3A8A?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+---
 
 ### 💻 Backend & Development
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,typescript,java" />
+<br/>
+<img src="https://img.shields.io/badge/REST%20API-0ea5e9?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+---
+
+### 🔧 Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<br/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </div>
 
