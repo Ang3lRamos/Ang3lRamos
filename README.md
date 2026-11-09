@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:F97316&height=200&section=header&text=Angel%20Ramos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### 📊 Data Analyst | Jr Data Engineer | Software Developer | AI Agents & LLM Apps  
+### 📊 Automation & BI Analyst @ WTW | Data Engineer | Full-Stack Developer | AI Agents & LLM Apps    
 📍 Medellín, Colombia 🇨🇴
 
 </div>
@@ -22,8 +22,8 @@
 
 ## 👋 About Me  
 
-🚀 I’m **Angel Ramos**, a Data Analyst and Software Developer with **2+ years of experience** building end-to-end analytical solutions.  
-I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, dashboards, and ETL pipelines that improve business decision-making.
+🚀 I’m **Angel Ramos**, a Systems Engineer and **Automation & BI Analyst at WTW**, with experience in the financial and insurance sectors (Bancolombia, WTW).  
+I specialize in identifying manual, repetitive processes and replacing them with reliable dashboards and automations that run on their own, using **Python, SQL, Power BI, C# (RPA) and Azure**.
 
 🤖 Lately I build **AI-powered systems with Claude**: LLMs as decision components with validated structured output, evaluated with real statistics instead of vibes, and **agentic development with Claude Code** to ship end-to-end projects faster.
 
@@ -46,6 +46,7 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
   <img src="https://img.shields.io/badge/DAX-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20Query-008272?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23%20RPA-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 ---
 
@@ -159,23 +160,33 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
 
 ---
 
-## 📌 Professional Experience  
+## 📌 Professional Experience
 
-- 🏦 **Data Analyst – Bancolombia** (Jan 2025 – Jun 2025)  
-  - Built 15+ dashboards in Power BI  
-  - Automated ETL with Python + SQL  
-  - Optimized SQL queries improving performance by 60%  
-  - Integrated multiple sources using Azure Data Factory  
+- 🛡️ **Automation & BI Analyst – WTW** (Apr 2026 – Present)  
+  _Dashboards and automations that replace manual reporting in insurance operations and HR analytics._
+  - Developed Power BI dashboards for endorsements, claims and SLA compliance (54+ DAX measures, ~32K cases tracked)
+  - Built an RPA solution in C# that automates group auto policy renewals across 5 insurers: SURA, Allianz, AXA, MAPFRE and HDI
+  - Created Python data pipelines and migrated VBA macros to Python for faster, error-free reporting
+  - Documented every solution with technical guides and user manuals to ensure team adoption
 
-- 📦 **Operations Analyst – Inversiones Manpe** (Oct 2025 – Dec 2025)  
-  - Managed inventory analytics (500+ SKUs)  
-  - Automated workflows with Python & Excel  
-  - Built operational dashboards for KPI tracking  
+- 📦 **Operations Analyst – Inversiones Manpe** (Oct 2025 – Dec 2025)
+  - Managed and analyzed inventory (500+ SKUs) to improve operational efficiency
+  - Automated controls and processes using data-driven tools
+  - Built reports and dashboards to monitor operational KPIs
+  - Led teams to optimize processes and reduce operating times
 
-- 🌍 **Freelance Data Analyst & Software Developer** (Feb 2024 – Oct 2024)  
-  - Delivered 8+ automation and analytics projects  
-  - Reduced manual reporting by 15+ hours weekly  
-  - Built end-to-end solutions (Python → SQL → Power BI)
+- 🏦 **Data Analyst Intern – Bancolombia** (Jan 2025 – Jul 2025)
+  - Built 15+ interactive Power BI dashboards to visualize corporate KPIs and support decision making
+  - Automated data extraction and transformation with Python (Pandas) and SQL
+  - Optimized complex SQL queries, improving analytical report performance by 60%
+  - Implemented data analysis solutions on Azure, integrating ETL pipelines (Azure Data Factory)
+  - Collaborated in agile (Scrum) teams to iteratively deliver BI solutions
+
+- 🌍 **Freelance Data Analyst** (Feb 2024 – Oct 2024)
+  - Delivered 8+ analytics and automation projects for clients in retail, finance and healthcare
+  - Developed interactive Power BI/Excel dashboards and automated reports, reducing manual reporting by 15+ hours weekly
+  - Performed exploratory analysis and data cleaning with Python, R and SQL
+  - Implemented statistical predictive models for forecasting and optimization
 
 ---
 
@@ -208,7 +219,7 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
 
 ## 📫 Let's Connect  
 
-If you're looking for someone skilled in **Data Analytics, BI Dashboards, SQL Optimization, ETL Automation, or Python Development**, feel free to reach out 🚀  
+If you're looking for someone skilled in **BI Dashboards, Process Automation (Python, RPA), Data Pipelines, AI Agents & LLM Apps, or Full-Stack Development**, feel free to reach out 🚀  
 
 📩 **Email:** angelf.ramosc@unac.edu.co  
 🔗 **LinkedIn:** https://linkedin.com/in/angel-ramos-528974231  
