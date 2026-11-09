@@ -76,8 +76,10 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
 <img src="https://img.shields.io/badge/RAG-1E3A8A?style=for-the-badge&logo=semanticweb&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<sub>Structured JSON output · prompt versioning · LLM evaluation (pre-registered experiments, bootstrap CIs) · agentic coding with custom Claude Code skills</sub>
+<sub>Tool-using agents (Anthropic API, OpenRouter function calling) · structured output validated with Pydantic/zod · provider-agnostic LLM clients with retries · prompt versioning · LLM evaluation (pre-registered experiments, bootstrap CIs) · agentic coding with Claude Code skills</sub>
 
 ---
 
@@ -97,32 +99,62 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
 <br/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-📌 Some projects that represent my strongest work:
+### 🤖 AI Agents & LLM Apps
 
-- 📈 **[a2tradingbot](https://github.com/Ang3lRamos/a2tradingbot): AI-assisted crypto trading research platform** · [live dashboard](https://web-pi-inky-0cgra45qzm.vercel.app)
-  _Python | Claude (LLM) | Supabase/Postgres | Next.js | Vercel | Binance API | Telegram_
-  → Two paper-trading bots running 24/7, with Claude reviewing every signal through validated JSON.
-  → Idempotent data pipeline (175k+ hourly candles since 2019), no-look-ahead backtesting, 6-year walk-forward.
-  → Pre-registered statistical evaluation of the LLM (300-signal samples, block bootstrap). Honest finding: the AI filter did not beat chance, while a volatility-targeted trend strategy beat BTC on risk-adjusted terms.
-  → Next.js trading-terminal dashboard with a read-only DB role, Telegram alerts and 100 tests.
+- 🛍️ **[AI sales agent for a perfume store](https://github.com/Ang3lRamos/perfumer-a)**
+  _Next.js | Anthropic API (tool use) | Supabase | TypeScript_
+  → Conversational agent that searches the real catalog, builds orders and escalates to a human, with conversation memory and unit-tested tools. Built with agentic coding (Claude Code skills, `AGENTS.md`).
 
-- 🤖 **Academic Chatbot with RAG (LLM)**  
-  _Next.js | n8n | Supabase | Redis_  
+- 🍲 **[Olla: AI meal planner for Colombian households](https://github.com/Ang3lRamos/Olla)** · [live demo](https://olla-alpha.vercel.app)
+  _Next.js 16 | Supabase (RLS) | zod | Vitest_
+  → "The AI picks, the code calculates": the model only returns catalog ids, validated with zod and sanitized; retries with backoff and schema-repair prompts; multi-household RLS tested on real Postgres.
+
+- 👗 **[Átelier: fashion e-commerce with an AI chatbot](https://github.com/Ang3lRamos/Tienda)**
+  _Next.js 15 | Supabase | OpenRouter (function calling)_
+  → Chatbot that answers only with real store data through tool calling, plus cart, favorites, admin panel and RBAC.
+
+- 🤖 **Academic Chatbot with RAG (LLM)**
+  _Next.js | n8n | Supabase | Redis_
   → Smart chatbot using RAG architecture and workflow automation.
 
-- 📊 **Power BI Analytics Dashboard (Big Data)**  
-  _Databricks | Spark | Python | Power BI_  
+### 📈 Quant & Trading Systems
+
+- 📊 **[a2tradingbot: AI-assisted crypto trading research](https://github.com/Ang3lRamos/a2tradingbot)** · [live dashboard](https://web-pi-inky-0cgra45qzm.vercel.app)
+  _Python | Claude | Supabase/Postgres | Next.js | Binance API | Telegram_
+  → Two paper-trading bots running 24/7, with Claude reviewing every signal through validated JSON.
+  → Idempotent data pipeline (175k+ hourly candles since 2019), no-look-ahead backtesting and a 6-year walk-forward.
+  → Pre-registered statistical evaluation of the LLM (300-signal samples, block bootstrap). Honest finding: the AI filter did not beat chance, while a volatility-targeted trend strategy beat BTC on risk-adjusted terms.
+
+- 💹 **[mt5bot: MetaTrader 5 trading bot](https://github.com/Ang3lRamos/a1Tradingbot-)**
+  _Python | MetaTrader 5 | SQLite | pytest_
+  → Pure-logic core with a risk filter (PASS/BLOCK), risk-based position sizing, backtest with Monte Carlo, kill switch and tests that run without MT5.
+
+### 🌐 Full-Stack Products (live)
+
+- 👁️ **[Mega Óptica: occupational visiometry system](https://github.com/Ang3lRamos/mega-optica)** · [live](https://mega-optica.vercel.app)
+  _Next.js | Supabase | shadcn/ui | react-pdf_
+  → Patients, clinical records, role-based access and PDF report generation.
+
+- 🏊 **[Aqua Bear: swim club booking platform](https://github.com/Ang3lRamos/aqua-bear)** · [live](https://aqua-bear.vercel.app)
+  _Next.js 15 | Supabase (Auth, RLS) | Tailwind_
+  → Class booking calendar, admin dashboard and RBAC.
+
+### 📊 Data & BI
+
+- 📊 **Power BI Analytics Dashboard (Big Data)**
+  _Databricks | Spark | Python | Power BI_
   → Dashboard built from large datasets using Spark processing.
 
-- 🧪 **Data Cleaning & Validation Pipeline**  
-  _Python | Pandas | SQL | Pytest_  
+- 🧪 **[Data Cleaning & Validation Pipeline](https://github.com/Ang3lRamos/data-cleaning-project)**
+  _Python | Pandas | SQL | Pytest_
   → Automated cleaning and validation with unit testing for quality assurance.
 
 ---
