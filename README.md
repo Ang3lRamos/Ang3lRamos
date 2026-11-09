@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:F97316&height=200&section=header&text=Angel%20Ramos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### 📊 Data Analyst | BI Developer | Jr Data Engineer | Software Developer  
+### 📊 Data Analyst | Jr Data Engineer | Software Developer | AI Agents & LLM Apps  
 📍 Medellín, Colombia 🇨🇴
 
 </div>
@@ -24,6 +24,8 @@
 
 🚀 I’m **Angel Ramos**, a Data Analyst and Software Developer with **2+ years of experience** building end-to-end analytical solutions.  
 I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, dashboards, and ETL pipelines that improve business decision-making.
+
+🤖 Lately I build **AI-powered systems with Claude**: LLMs as decision components with validated structured output, evaluated with real statistics instead of vibes, and **agentic development with Claude Code** to ship end-to-end projects faster.
 
 💡 I enjoy transforming raw data into valuable insights and building tools that reduce manual work.
 
@@ -64,12 +66,18 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
 
 ---
 
-### 🤖 AI / LLM Tools
+### 🤖 AI Agents & LLM Engineering
 <img src="https://skillicons.dev/icons?i=python" />
 <br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-1E3A8A?style=for-the-badge&logo=robotframework&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-1E3A8A?style=for-the-badge&logo=semanticweb&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+
+<sub>Structured JSON output · prompt versioning · LLM evaluation (pre-registered experiments, bootstrap CIs) · agentic coding with custom Claude Code skills</sub>
 
 ---
 
@@ -78,6 +86,9 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
 <br/>
 <img src="https://img.shields.io/badge/REST%20API-0ea5e9?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 ---
 
@@ -85,6 +96,7 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 <br/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 
 </div>
 
@@ -93,6 +105,13 @@ I specialize in **Python, SQL, Power BI, and Azure**, focused on automation, das
 ## 🚀 Featured Projects  
 
 📌 Some projects that represent my strongest work:
+
+- 📈 **[a2tradingbot](https://github.com/Ang3lRamos/a2tradingbot): AI-assisted crypto trading research platform** · [live dashboard](https://web-pi-inky-0cgra45qzm.vercel.app)
+  _Python | Claude (LLM) | Supabase/Postgres | Next.js | Vercel | Binance API | Telegram_
+  → Two paper-trading bots running 24/7, with Claude reviewing every signal through validated JSON.
+  → Idempotent data pipeline (175k+ hourly candles since 2019), no-look-ahead backtesting, 6-year walk-forward.
+  → Pre-registered statistical evaluation of the LLM (300-signal samples, block bootstrap). Honest finding: the AI filter did not beat chance, while a volatility-targeted trend strategy beat BTC on risk-adjusted terms.
+  → Next.js trading-terminal dashboard with a read-only DB role, Telegram alerts and 100 tests.
 
 - 🤖 **Academic Chatbot with RAG (LLM)**  
   _Next.js | n8n | Supabase | Redis_  
