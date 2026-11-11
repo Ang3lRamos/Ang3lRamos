@@ -24,11 +24,6 @@ text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monos
 .role4 { animation: role 18s 12s infinite; opacity: 0; }
 .role5 { animation: role 18s 15s infinite; opacity: 0; }
 @keyframes role { 0% { opacity: 0; transform: translateY(8px); } 2.0% { opacity: 1; transform: none; } 14.2% { opacity: 1; transform: none; } 16.7% { opacity: 0; transform: translateY(-8px); } 100% { opacity: 0; } }
-.st0 { animation: st 16s 0s infinite; opacity: 0; }
-.st1 { animation: st 16s 4s infinite; opacity: 0; }
-.st2 { animation: st 16s 8s infinite; opacity: 0; }
-.st3 { animation: st 16s 12s infinite; opacity: 0; }
-@keyframes st { 0% { opacity: 0; } 2.5% { opacity: 1; } 22.5% { opacity: 1; } 25.0%, 100% { opacity: 0; } }
 .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; }
 @keyframes pulse { 0% { transform: scale(1); opacity: .7; } 100% { transform: scale(3); opacity: 0; } }
 @keyframes blink { 50% { opacity: 0; } }
@@ -56,14 +51,11 @@ text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monos
     
     <rect class="scan" x="48" y="28" width="240" height="24" fill="url(#beam)"/>
   </g>
-  <rect x="380" y="36" width="290" height="25" rx="12.5" fill="#10141a" stroke="#222a33"/>
+  <rect x="380" y="36" width="270" height="25" rx="12.5" fill="#10141a" stroke="#222a33"/>
   <circle class="pulse" cx="395" cy="48.5" r="4" fill="#1fbf75"/>
   <circle cx="395" cy="48.5" r="4" fill="#1fbf75"/>
   <text x="406" y="53" font-size="12" fill="#8b95a3">status:</text>
-  <text class="st0" x="458" y="53" font-size="12" fill="#e4e7eb">always learning</text>
-<text class="st1" x="458" y="53" font-size="12" fill="#e4e7eb">shipping &gt; perfect</text>
-<text class="st2" x="458" y="53" font-size="12" fill="#e4e7eb">turning coffee into commits</text>
-<text class="st3" x="458" y="53" font-size="12" fill="#e4e7eb">it works on my machine ✓</text>
+  <text x="458" y="53" font-size="12" fill="#e4e7eb">it works on my machine ✓</text>
   <text x="380" y="96" font-size="15" fill="#1fbf75">angel@medellin<tspan fill="#8b95a3">:~$</tspan> <tspan fill="#e4e7eb">whoami</tspan></text>
   <text x="378" y="146" font-size="50" font-weight="700" fill="#e4e7eb" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">Angel Ramos</text>
   <text class="role0" x="380" y="186" font-size="22" fill="#F97316">Automation &amp; BI Analyst @ WTW</text>
