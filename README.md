@@ -4,13 +4,13 @@
 
 </div>
 
-## `$ whoami`
+## <img src="assets/h/whoami.svg" height="40" alt="$ whoami">
 
 Systems Engineer and **Automation & BI Analyst at WTW** who also does **DevOps on AWS with Terraform**, with experience in finance and insurance (Bancolombia, WTW). I find manual, repetitive processes and replace them with dashboards and automations that run on their own: **Python, SQL, Power BI, C# (RPA) and Azure**.
 
 Lately I build **AI-powered systems with Claude**: LLMs as decision components with validated structured output, evaluated with real statistics instead of vibes, and shipped end to end with **Claude Code**.
 
-## `$ ls ~/things-i-love`
+## <img src="assets/h/love.svg" height="40" alt="$ ls ~/things-i-love">
 
 <div align="center">
   <img src="assets/trading-flow.svg" width="100%" alt="Trading: Claude revisa vela por vela, marca la señal LONG o SHORT y la alerta llega al bot de Telegram">
@@ -20,7 +20,7 @@ Lately I build **AI-powered systems with Claude**: LLMs as decision components w
   <img src="assets/data-flow.svg" width="100%" alt="Datos: extracción de API, Excel y CSV, limpieza de nulos y duplicados, modelo estrella y dashboard de Power BI">
 </div>
 
-## `$ cat tech-stack.yaml`
+## <img src="assets/h/stack.svg" height="40" alt="$ cat tech-stack.yaml">
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Lately I build **AI-powered systems with Claude**: LLMs as decision components w
 
 </div>
 
-## `$ ls projects/ --featured`
+## <img src="assets/h/projects.svg" height="40" alt="$ ls projects/ --featured">
 
 | | Project | What it does | Stack |
 |---|---|---|---|
@@ -89,12 +89,9 @@ Lately I build **AI-powered systems with Claude**: LLMs as decision components w
 | <img src="assets/icons/aqua.svg" width="40" alt=""> | **[Aqua Bear](https://github.com/Ang3lRamos/aqua-bear)** · [live](https://aqua-bear.vercel.app) | Swim club booking calendar with admin dashboard. | Next.js · Supabase Auth |
 | <img src="assets/icons/mt5.svg" width="40" alt=""> | **[mt5bot](https://github.com/Ang3lRamos/a1Tradingbot-)** | MetaTrader 5 bot with risk filter, Monte Carlo backtest and kill switch. | Python · MT5 · pytest |
 
-## `$ cat experience.log`
+## <img src="assets/h/experience.svg" height="40" alt="$ cat experience.log">
 
-- **Automation & BI Analyst · WTW** (Apr 2026 – now): Power BI for claims and SLAs (54+ DAX measures, ~32K cases), C# RPA that renews group auto policies across 5 insurers, VBA macros migrated to Python.
-- **Operations Analyst · Inversiones Manpe** (Oct – Dec 2025): inventory analytics for 500+ SKUs and automated controls.
-- **Data Analyst Intern · Bancolombia** (Jan – Jul 2025): 15+ Power BI dashboards, Python/SQL pipelines, SQL queries 60% faster, ETL on Azure Data Factory.
-- **Freelance Data Analyst** (Feb – Oct 2024): 8+ analytics and automation projects; 15+ hours of weekly manual reporting removed.
+<p align="center"><img src="assets/experience.svg" width="100%" alt="Automation & BI Analyst · WTW  (Apr 2026 – now): Power BI for claims and SLAs (54+ DAX measures, ~32K cases), C# RPA that renews group auto policies across 5 insurers, VBA macros migrated to Python.  Operations Analyst · Inversiones Manpe  (Oct – Dec 2025): inventory analytics for 500+ SKUs and automated controls.  Data Analyst Intern · Bancolombia  (Jan – Jul 2025): 15+ Power BI dashboards, Python/SQL pipelines, SQL queries 60% faster, ETL on Azure Data Factory.  Freelance Data Analyst  (Feb – Oct 2024): 8+ analytics and automation projects; 15+ hours of weekly manual reporting removed."></p>
 
 <details>
 <summary><code>$ cat certifications.txt</code></summary>
@@ -103,13 +100,13 @@ Data Analysis · Python for Data Science · Power BI · Agile & Scrum (Udemy) ·
 
 </details>
 
-## `$ git log --graph --since=1.year`
+## <img src="assets/h/contrib.svg" height="40" alt="$ git log --graph --since=1.year">
 
 <p align="center">
   <img src="assets/contributions.svg" width="100%" alt="Calendario de contribuciones del último año, con una onda de luz que recorre las semanas y Clawd caminando debajo">
 </p>
 
-## `$ kubectl get signals --all-namespaces`
+## <img src="assets/h/signals.svg" height="40" alt="$ kubectl get signals --all-namespaces">
 
 <p align="center">
   <img src="assets/radar-skills.svg" width="49%" alt="Radar de áreas: BI, Data Engineering, DevOps en AWS, IA y LLM, web full-stack y automatización">
@@ -118,14 +115,14 @@ Data Analysis · Python for Data Science · Power BI · Agile & Scrum (Udemy) ·
 
 <p align="center"><sub><code>signals: skills_radar · language_radar · status: healthy</code></sub></p>
 
-## `$ connect --socials`
+## <img src="assets/h/connect.svg" height="40" alt="$ connect --socials">
 
 <div align="center">
 
-<a href="https://portfolioangeldev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>&nbsp;
-<a href="https://linkedin.com/in/angel-ramos-528974231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="https://github.com/Ang3lRamos"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
-<a href="mailto:angelf.ramosc@unac.edu.co"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://portfolioangeldev.netlify.app/"><img src="assets/social-portfolio.svg" height="44" alt="Portfolio"></a>&nbsp;
+<a href="https://linkedin.com/in/angel-ramos-528974231"><img src="assets/social-linkedin.svg" height="44" alt="LinkedIn"></a>&nbsp;
+<a href="https://github.com/Ang3lRamos"><img src="assets/social-github.svg" height="44" alt="GitHub"></a>&nbsp;
+<a href="mailto:angelf.ramosc@unac.edu.co"><img src="assets/social-email.svg" height="44" alt="Email"></a>
 
 <br><br>
 

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="518" height="40" viewBox="0 0 518 40" role="img" aria-label="$ ls projects/ --featured">
+<style>
+text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace; font-size: 20px; }
+.typed { animation: type 1.61s steps(23) .4s both; }
+@keyframes type { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+.cur { animation: move 1.61s steps(23) .4s both, blink 1s steps(1) 2.0100000000000002s infinite; }
+@keyframes move { from { transform: translateX(0); } to { transform: translateX(276.0px); } }
+@keyframes blink { 50% { opacity: 0; } }
+@media (prefers-color-scheme: light) { .g { fill: #1a7f37; } .i { fill: #1f2328; } .m { fill: #59636e; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .typed { clip-path: none !important; } }
+</style>
+<text class="g" x="2" y="27" textLength="204.0" lengthAdjust="spacing" fill="#1fbf75">angel@medellin<tspan class="m" fill="#8b95a3">:~$</tspan></text>
+<text class="typed i" x="218.0" y="27" textLength="276.0" lengthAdjust="spacing" fill="#e4e7eb" font-weight="700">ls projects/ --featured</text>
+<rect class="cur g" x="219.0" y="11" width="10" height="20" fill="#1fbf75" opacity=".85"/>
+</svg>
