@@ -103,6 +103,12 @@ Data Analysis · Python for Data Science · Power BI · Agile & Scrum (Udemy) ·
 
 </details>
 
+## `$ git log --graph --since=1.year`
+
+<p align="center">
+  <img src="assets/contributions.svg" width="100%" alt="Calendario de contribuciones del último año, con una onda de luz que recorre las semanas y Clawd caminando debajo">
+</p>
+
 ## `$ kubectl get signals --all-namespaces`
 
 <p align="center">
