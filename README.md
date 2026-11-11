@@ -2,12 +2,6 @@
 
 <img src="assets/hero.svg" width="960" alt="Angel Ramos: Automation & BI Analyst, Data Engineer, Full-Stack Developer, AI Agents and trading bots">
 
-<br><br>
-
-<a href="https://portfolioangeldev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
-<a href="https://linkedin.com/in/angel-ramos-528974231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:angelf.ramosc@unac.edu.co"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
 </div>
 
 ## `$ whoami`
@@ -109,8 +103,28 @@ Data Analysis · Python for Data Science · Power BI · Agile & Scrum (Udemy) ·
 
 </details>
 
-## `$ connect`
+## `$ kubectl get signals --all-namespaces`
 
-Looking for someone for **BI dashboards, process automation, data pipelines, DevOps on AWS with Terraform, AI agents or full-stack apps**? Let's talk: **angelf.ramosc@unac.edu.co** · [LinkedIn](https://linkedin.com/in/angel-ramos-528974231)
+<p align="center">
+  <img src="assets/radar-skills.svg" width="49%" alt="Radar de áreas: BI, Data Engineering, DevOps en AWS, IA y LLM, web full-stack y automatización">
+  <img src="assets/radar-langs.svg" width="49%" alt="Radar de lenguajes: Python, SQL, TypeScript, DAX, C# y Bash">
+</p>
 
-<div align="center"><sub>Medellín, Colombia 🇨🇴</sub></div>
+<p align="center"><sub><code>signals: skills_radar · language_radar · status: healthy</code></sub></p>
+
+## `$ connect --socials`
+
+<div align="center">
+
+<a href="https://portfolioangeldev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>&nbsp;
+<a href="https://linkedin.com/in/angel-ramos-528974231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://github.com/Ang3lRamos"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+<a href="mailto:angelf.ramosc@unac.edu.co"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br><br>
+
+<p>Looking for someone for <b>BI dashboards, process automation, data pipelines, DevOps on AWS with Terraform, AI agents or full-stack apps</b>? Let's talk.</p>
+
+<sub><code>angel@medellin:~$ exit · Medellín, Colombia · UTC-5</code></sub>
+
+</div>

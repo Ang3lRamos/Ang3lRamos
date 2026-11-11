@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="340" viewBox="0 0 440 340" role="img" aria-label="kubectl get signals -n skills">
+<style>
+text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace; }
+
+.shape { transform-origin: 220.0px 192px; animation: grow 1.4s cubic-bezier(.2,.9,.3,1.2) both, breathe 4s 1.4s ease-in-out infinite; }
+@keyframes grow { from { transform: scale(0); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+@keyframes breathe { 50% { transform: scale(1.035); } }
+.pt { opacity: 0; animation: pt .4s ease-out forwards; }
+@keyframes pt { to { opacity: 1; } }
+.sweep { transform-origin: 220.0px 192px; animation: sweep 5s linear infinite; }
+@keyframes sweep { to { transform: rotate(360deg); } }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; } }
+</style>
+<rect x="0.5" y="0.5" width="439" height="339" rx="10" fill="#10141a" stroke="#222a33"/>
+<circle cx="18" cy="17" r="4" fill="#f0525f"/><circle cx="31" cy="17" r="4" fill="#e0a526"/><circle cx="44" cy="17" r="4" fill="#1fbf75"/>
+<text x="220.0" y="21" text-anchor="middle" font-size="11" fill="#8b95a3">kubectl get signals -n skills</text>
+<line x1="0" y1="32" x2="440" y2="32" stroke="#222a33"/>
+
+<text x="16" y="52" font-size="10" fill="#8b95a3">NAMESPACE <tspan fill="#e4e7eb">skills</tspan>   STATUS <tspan fill="#1fbf75">Healthy</tspan></text>
+<defs><radialGradient id="sw" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220.0 192) scale(92)">
+<stop offset="0" stop-color="#1fbf75" stop-opacity=".0"/><stop offset="1" stop-color="#1fbf75" stop-opacity=".22"/></radialGradient>
+<clipPath id="hex"><polygon points="220.0,100.0 299.7,146.0 299.7,238.0 220.0,284.0 140.3,238.0 140.3,146.0"/></clipPath></defs>
+<polygon points="220.0,169.0 239.9,180.5 239.9,203.5 220.0,215.0 200.1,203.5 200.1,180.5" fill="none" stroke="#222a33"/><polygon points="220.0,146.0 259.8,169.0 259.8,215.0 220.0,238.0 180.2,215.0 180.2,169.0" fill="none" stroke="#222a33"/><polygon points="220.0,123.0 279.8,157.5 279.8,226.5 220.0,261.0 160.2,226.5 160.2,157.5" fill="none" stroke="#222a33"/><polygon points="220.0,100.0 299.7,146.0 299.7,238.0 220.0,284.0 140.3,238.0 140.3,146.0" fill="none" stroke="#222a33"/><line x1="220.0" y1="192" x2="220.0" y2="100.0" stroke="#222a33"/><line x1="220.0" y1="192" x2="299.7" y2="146.0" stroke="#222a33"/><line x1="220.0" y1="192" x2="299.7" y2="238.0" stroke="#222a33"/><line x1="220.0" y1="192" x2="220.0" y2="284.0" stroke="#222a33"/><line x1="220.0" y1="192" x2="140.3" y2="238.0" stroke="#222a33"/><line x1="220.0" y1="192" x2="140.3" y2="146.0" stroke="#222a33"/>
+<g clip-path="url(#hex)"><g class="sweep"><path d="M220.0 192L220.0 100A92 92 0 0 1 299.7 146.0Z" fill="url(#sw)"/>
+<line x1="220.0" y1="192" x2="220.0" y2="100" stroke="#1fbf75" stroke-opacity=".6"/></g></g>
+<polygon class="shape" points="220.0,109.2 279.8,157.5 275.8,224.2 220.0,270.2 156.3,228.8 152.3,152.9" fill="#1fbf75" fill-opacity=".22" stroke="#1fbf75" stroke-width="2"/>
+<circle class="pt" style="animation-delay:1.20s" cx="220.0" cy="109.2" r="3.2" fill="#1fbf75"/><circle class="pt" style="animation-delay:1.32s" cx="279.8" cy="157.5" r="3.2" fill="#1fbf75"/><circle class="pt" style="animation-delay:1.44s" cx="275.8" cy="224.2" r="3.2" fill="#1fbf75"/><circle class="pt" style="animation-delay:1.56s" cx="220.0" cy="270.2" r="3.2" fill="#1fbf75"/><circle class="pt" style="animation-delay:1.68s" cx="156.3" cy="228.8" r="3.2" fill="#1fbf75"/><circle class="pt" style="animation-delay:1.80s" cx="152.3" cy="152.9" r="3.2" fill="#1fbf75"/><text x="220.0" y="88.0" text-anchor="middle" font-size="10.5" fill="#e4e7eb">BI · Power BI <tspan fill="#8b95a3">90</tspan></text><text x="313.5" y="142.0" text-anchor="start" font-size="10.5" fill="#e4e7eb">Data Eng <tspan fill="#8b95a3">75</tspan></text><text x="313.5" y="250.0" text-anchor="start" font-size="10.5" fill="#e4e7eb">DevOps · AWS <tspan fill="#8b95a3">70</tspan></text><text x="220.0" y="304.0" text-anchor="middle" font-size="10.5" fill="#e4e7eb">AI · LLM <tspan fill="#8b95a3">85</tspan></text><text x="126.5" y="250.0" text-anchor="end" font-size="10.5" fill="#e4e7eb">Web full-stack <tspan fill="#8b95a3">80</tspan></text><text x="126.5" y="142.0" text-anchor="end" font-size="10.5" fill="#e4e7eb">Automation <tspan fill="#8b95a3">85</tspan></text>
+</svg>
