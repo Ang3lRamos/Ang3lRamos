@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="MetaTrader bot">
+<style> @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<rect x="0.5" y="0.5" width="47" height="47" rx="11" fill="#10141a" stroke="#2a333d"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2">
+<path id="p" d="M9 33l8-8 6 5 7-11 9 6" stroke="#1fbf75"/>
+<circle r="2.8" fill="#e4e7eb"><animateMotion dur="2.4s" repeatCount="indefinite" path="M9 33l8-8 6 5 7-11 9 6"/></circle>
+<path d="M9 38h30" stroke="#2a333d"/></g>
+</svg>

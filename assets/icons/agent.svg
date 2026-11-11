@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="AI sales agent">
+<style>.tw { transform-box: fill-box; transform-origin: center; animation: tw 1.8s ease-in-out infinite; }@keyframes tw { 50% { transform: scale(.6) rotate(45deg); opacity: .6; } } @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<rect x="0.5" y="0.5" width="47" height="47" rx="11" fill="#10141a" stroke="#2a333d"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2">
+<path d="M10 13h28v17H22l-7 6v-6h-5z" stroke="#38bdf8"/>
+<path class="tw" d="M24 16l1.6 4.4L30 22l-4.4 1.6L24 28l-1.6-4.4L18 22l4.4-1.6z" fill="#F97316" stroke="none"/></g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="meal planner">
+<style>.st { animation: st 2.4s ease-in-out infinite; opacity: 0; } .s2 { animation-delay: .5s; } .s3 { animation-delay: 1s; }@keyframes st { 0% { opacity: 0; transform: translateY(3px); } 40% { opacity: .9; } 100% { opacity: 0; transform: translateY(-4px); } } @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<rect x="0.5" y="0.5" width="47" height="47" rx="11" fill="#10141a" stroke="#2a333d"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2">
+<path d="M11 24h26v6a7 7 0 0 1-7 7H18a7 7 0 0 1-7-7z" stroke="#F97316"/>
+<path d="M8 24h32" stroke="#F97316"/><path d="M21 20h6" stroke="#F97316"/>
+<path class="st s1" d="M17 16c-2-2 2-3 0-6" stroke="#e4e7eb" stroke-width="1.6"/>
+<path class="st s2" d="M24 15c-2-2 2-3 0-6" stroke="#e4e7eb" stroke-width="1.6"/>
+<path class="st s3" d="M31 16c-2-2 2-3 0-6" stroke="#e4e7eb" stroke-width="1.6"/></g>
+</svg>

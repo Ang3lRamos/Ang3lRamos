@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="swim club">
+<style>.wv { animation: wv 1.8s linear infinite; } @keyframes wv { to { transform: translateX(18px); } } @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<rect x="0.5" y="0.5" width="47" height="47" rx="11" fill="#10141a" stroke="#2a333d"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2">
+<clipPath id="w"><rect x="6" y="10" width="36" height="28"/></clipPath>
+<g clip-path="url(#w)"><g class="wv">
+<path d="M-6 20q4.5-4 9 0t9 0 9 0 9 0 9 0 9 0" stroke="#3987e5"/>
+<path d="M-6 28q4.5-4 9 0t9 0 9 0 9 0 9 0 9 0" stroke="#38bdf8"/>
+<path d="M-6 36q4.5-4 9 0t9 0 9 0 9 0 9 0 9 0" stroke="#3987e5" opacity=".6"/></g></g></g>
+</svg>

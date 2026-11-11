@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="visiometry system">
+<style>.lid { transform-origin: 24px 24px; animation: lid 3.6s infinite; }@keyframes lid { 0%, 90%, 100% { transform: scaleY(1); } 94% { transform: scaleY(.1); } } @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<rect x="0.5" y="0.5" width="47" height="47" rx="11" fill="#10141a" stroke="#2a333d"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2">
+<g class="lid"><path d="M8 24s6-9 16-9 16 9 16 9-6 9-16 9-16-9-16-9z" stroke="#38bdf8"/>
+<circle cx="24" cy="24" r="4.5" fill="#38bdf8" stroke="none"/></g></g>
+</svg>
