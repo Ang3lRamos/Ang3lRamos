@@ -36,7 +36,7 @@ text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monos
   <clipPath id="card"><rect width="960" height="320" rx="14"/></clipPath>
   <clipPath id="pic"><rect x="48" y="52" width="240" height="240"/></clipPath>
   <clipPath id="tick"><rect width="290" height="36" y="-18"/></clipPath>
-  <linearGradient id="brand" x1="0" x2="1"><stop offset="0" stop-color="#3987e5"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+  <linearGradient id="brand" x1="0" x2="1"><stop offset="0" stop-color="#1fbf75"/><stop offset="1" stop-color="#f0525f"/></linearGradient>
   <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset="1" stop-color="#38bdf8" stop-opacity=".3"/></linearGradient>
 </defs>
 <g clip-path="url(#card)">

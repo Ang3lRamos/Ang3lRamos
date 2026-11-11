@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=2309445" width="960" alt="Angel Ramos: Automation & BI Analyst, Data Engineer, Full-Stack Developer, AI Agents and trading bots">
+<img src="assets/hero.svg?v=3" width="960" alt="Angel Ramos: Automation & BI Analyst, Data Engineer, Full-Stack Developer, AI Agents and trading bots">
 
 </div>
 
