@@ -51,11 +51,11 @@ text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monos
     
     <rect class="scan" x="48" y="28" width="240" height="24" fill="url(#beam)"/>
   </g>
-  <rect x="380" y="36" width="270" height="25" rx="12.5" fill="#10141a" stroke="#222a33"/>
+  <rect x="380" y="36" width="282" height="25" rx="12.5" fill="#10141a" stroke="#222a33"/>
   <circle class="pulse" cx="395" cy="48.5" r="4" fill="#1fbf75"/>
   <circle cx="395" cy="48.5" r="4" fill="#1fbf75"/>
   <text x="406" y="53" font-size="12" fill="#8b95a3">status:</text>
-  <text x="458" y="53" font-size="12" fill="#e4e7eb">it works on my machine ✓</text>
+  <text x="458" y="53" font-size="12" fill="#e4e7eb">it works on my machine 😫☕</text>
   <text x="380" y="96" font-size="15" fill="#1fbf75">angel@medellin<tspan fill="#8b95a3">:~$</tspan> <tspan fill="#e4e7eb">whoami</tspan></text>
   <text x="378" y="146" font-size="50" font-weight="700" fill="#e4e7eb" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">Angel Ramos</text>
   <text class="role0" x="380" y="186" font-size="22" fill="#F97316">Automation &amp; BI Analyst @ WTW</text>
