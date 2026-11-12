@@ -11,7 +11,7 @@
 ## <img src="assets/h/love.svg" height="40" alt="$ ls ~/things-i-love">
 
 <div align="center">
-  <img src="assets/trading-flow.svg?v=1" width="100%" alt="Trading: Claude revisa vela por vela, marca la señal LONG o SHORT y la alerta llega al bot de Telegram">
+  <img src="assets/trading-flow.svg?v=2" width="100%" alt="Trading: Claude revisa vela por vela, marca la señal LONG o SHORT y la alerta llega al bot de Telegram">
   <br>
   <img src="assets/fullstack-flow.svg?v=1" width="100%" alt="Full-stack: el pipeline despliega con Terraform en AWS, el sitio queda en línea, el usuario hace clic y la API consulta Supabase y responde">
   <br>
