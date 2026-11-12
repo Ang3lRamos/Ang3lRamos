@@ -4,7 +4,7 @@
 <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2">
 <clipPath id="w"><rect x="6" y="10" width="36" height="28"/></clipPath>
 <g clip-path="url(#w)"><g class="wv">
-<path d="M-6 20q4.5-4 9 0t9 0 9 0 9 0 9 0 9 0" stroke="#3987e5"/>
-<path d="M-6 28q4.5-4 9 0t9 0 9 0 9 0 9 0 9 0" stroke="#38bdf8"/>
-<path d="M-6 36q4.5-4 9 0t9 0 9 0 9 0 9 0 9 0" stroke="#3987e5" opacity=".6"/></g></g></g>
+<path d="M-6 20q4.5-4 9 0t9 0 9 0 9 0 9 0 9 0" stroke="#1fbf75"/>
+<path d="M-6 28q4.5-4 9 0t9 0 9 0 9 0 9 0 9 0" stroke="#1fbf75"/>
+<path d="M-6 36q4.5-4 9 0t9 0 9 0 9 0 9 0 9 0" stroke="#1fbf75" opacity=".6"/></g></g></g>
 </svg>

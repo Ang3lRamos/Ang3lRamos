@@ -5,5 +5,5 @@ text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monos
 @keyframes ty { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }.gl { transform-box: fill-box; transform-origin: center; animation: gl 2.4s 1.8s ease-in-out infinite; }@keyframes gl { 50% { opacity: .35; } }@media (prefers-color-scheme: light) { .i { fill: #1f2328; } .m { fill: #59636e; } .g { fill: #1a7f37; } }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .ty { clip-path: none !important; } .sh { display: none; } }
 </style>
-<text class="m" x="2" y="19" font-size="15" fill="#5d6774">├─</text><text class="gl" x="29.0" y="19" font-size="15" fill="#f5c542">⚙</text><text class="ty l0 i" x="47.0" y="19" font-size="15" fill="#e4e7eb" font-weight="700" textLength="99.0" lengthAdjust="spacing">automation:</text>
+<text class="m" x="2" y="19" font-size="15" fill="#5d6774">├─</text><text class="gl" x="29.0" y="19" font-size="15" fill="#1fbf75">⚙</text><text class="ty l0 i" x="47.0" y="19" font-size="15" fill="#e4e7eb" font-weight="700" textLength="99.0" lengthAdjust="spacing">automation:</text>
 </svg>
