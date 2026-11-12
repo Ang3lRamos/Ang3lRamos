@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="97" viewBox="0 0 800 97" role="img" aria-label="mt5bot: MetaTrader 5 bot with risk filter, Monte Carlo backtest and kill switch. (Python · MT5 · pytest)">
+<style>
+text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace; }
+.l0 { animation: ty 0.58s steps(72) 0.50s both; }
+@keyframes ty { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }.card { animation: rise .6s .1s both; } @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }.bar { animation: bar 3s 2.4s ease-in-out infinite; } @keyframes bar { 50% { opacity: .35; } }.sh { animation: sh 6s 3.0s ease-in-out infinite; }@keyframes sh { 0% { transform: translateX(-120px); } 40%, 100% { transform: translateX(860px); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .ty { clip-path: none !important; } .sh { display: none; } }
+</style>
+<rect x="0.5" y="0.5" width="799" height="96" rx="10" fill="#10141a" stroke="#222a33"/><g class="card"><defs><clipPath id="cc"><rect width="800" height="97" rx="10"/></clipPath><linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs><g clip-path="url(#cc)"><rect class="sh" width="100" height="97" fill="url(#sg)"/><rect class="bar" x="0" y="0" width="3" height="97" fill="#a78bfa"/></g><svg x="20" y="18" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="MetaTrader bot">
+<style> @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<rect x="0.5" y="0.5" width="47" height="47" rx="11" fill="#10141a" stroke="#2a333d"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2">
+<path id="p" d="M9 33l8-8 6 5 7-11 9 6" stroke="#1fbf75"/>
+<circle r="2.8" fill="#e4e7eb"><animateMotion dur="2.4s" repeatCount="indefinite" path="M9 33l8-8 6 5 7-11 9 6"/></circle>
+<path d="M9 38h30" stroke="#2a333d"/></g>
+</svg><text x="88" y="38" font-size="17" font-weight="700" fill="#e4e7eb">mt5bot</text><text x="780" y="37" text-anchor="end" font-size="11.5" fill="#a78bfa">Python · MT5 · pytest</text><text class="ty l0 m" x="88" y="64" font-size="12.5" fill="#8b95a3" textLength="540.0" lengthAdjust="spacing">MetaTrader 5 bot with risk filter, Monte Carlo backtest and kill switch.</text></g>
+</svg>

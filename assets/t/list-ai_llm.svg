@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="521" height="26" viewBox="0 0 521 26" role="img" aria-label="Claude · Claude Code · agents · RAG · n8n · Pydantic · Zod · OpenRouter">
+<style>
+text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace; }
+.c0 { animation: pop .4s 1.60s both; }
+.c1 { animation: pop .4s 1.72s both; }
+.c2 { animation: pop .4s 1.84s both; }
+.c3 { animation: pop .4s 1.96s both; }
+.c4 { animation: pop .4s 2.08s both; }
+.c5 { animation: pop .4s 2.20s both; }
+.c6 { animation: pop .4s 2.32s both; }
+.c7 { animation: pop .4s 2.44s both; }@keyframes pop { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }@media (prefers-color-scheme: light) { rect { stroke: #d0d7de; } .m { fill: #59636e; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .ty { clip-path: none !important; } .sh { display: none; } }
+</style>
+<g class="c0"><rect x="0.5" y="2.5" width="57.4" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="8.0" y="16.5" font-size="11.5" fill="#8b95a3" textLength="41.4" lengthAdjust="spacing">Claude</text></g><g class="c1"><rect x="63.9" y="2.5" width="91.9" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="71.4" y="16.5" font-size="11.5" fill="#8b95a3" textLength="75.9" lengthAdjust="spacing">Claude Code</text></g><g class="c2"><rect x="161.8" y="2.5" width="57.4" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="169.3" y="16.5" font-size="11.5" fill="#8b95a3" textLength="41.4" lengthAdjust="spacing">agents</text></g><g class="c3"><rect x="225.2" y="2.5" width="36.7" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="232.7" y="16.5" font-size="11.5" fill="#8b95a3" textLength="20.7" lengthAdjust="spacing">RAG</text></g><g class="c4"><rect x="267.9" y="2.5" width="36.7" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="275.4" y="16.5" font-size="11.5" fill="#8b95a3" textLength="20.7" lengthAdjust="spacing">n8n</text></g><g class="c5"><rect x="310.6" y="2.5" width="71.2" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="318.1" y="16.5" font-size="11.5" fill="#8b95a3" textLength="55.2" lengthAdjust="spacing">Pydantic</text></g><g class="c6"><rect x="387.8" y="2.5" width="36.7" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="395.3" y="16.5" font-size="11.5" fill="#8b95a3" textLength="20.7" lengthAdjust="spacing">Zod</text></g><g class="c7"><rect x="430.5" y="2.5" width="85.0" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="438.0" y="16.5" font-size="11.5" fill="#8b95a3" textLength="69.0" lengthAdjust="spacing">OpenRouter</text></g>
+</svg>

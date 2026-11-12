@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="457" height="26" viewBox="0 0 457 26" role="img" aria-label="Python · Pandas · NumPy · Power BI · DAX · Power Query · Excel">
+<style>
+text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace; }
+.c0 { animation: pop .4s 0.60s both; }
+.c1 { animation: pop .4s 0.72s both; }
+.c2 { animation: pop .4s 0.84s both; }
+.c3 { animation: pop .4s 0.96s both; }
+.c4 { animation: pop .4s 1.08s both; }
+.c5 { animation: pop .4s 1.20s both; }
+.c6 { animation: pop .4s 1.32s both; }@keyframes pop { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }@media (prefers-color-scheme: light) { rect { stroke: #d0d7de; } .m { fill: #59636e; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .ty { clip-path: none !important; } .sh { display: none; } }
+</style>
+<g class="c0"><rect x="0.5" y="2.5" width="57.4" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="8.0" y="16.5" font-size="11.5" fill="#8b95a3" textLength="41.4" lengthAdjust="spacing">Python</text></g><g class="c1"><rect x="63.9" y="2.5" width="57.4" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="71.4" y="16.5" font-size="11.5" fill="#8b95a3" textLength="41.4" lengthAdjust="spacing">Pandas</text></g><g class="c2"><rect x="127.3" y="2.5" width="50.5" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="134.8" y="16.5" font-size="11.5" fill="#8b95a3" textLength="34.5" lengthAdjust="spacing">NumPy</text></g><g class="c3"><rect x="183.8" y="2.5" width="71.2" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="191.3" y="16.5" font-size="11.5" fill="#8b95a3" textLength="55.2" lengthAdjust="spacing">Power BI</text></g><g class="c4"><rect x="261.0" y="2.5" width="36.7" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="268.5" y="16.5" font-size="11.5" fill="#8b95a3" textLength="20.7" lengthAdjust="spacing">DAX</text></g><g class="c5"><rect x="303.7" y="2.5" width="91.9" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="311.2" y="16.5" font-size="11.5" fill="#8b95a3" textLength="75.9" lengthAdjust="spacing">Power Query</text></g><g class="c6"><rect x="401.6" y="2.5" width="50.5" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="409.1" y="16.5" font-size="11.5" fill="#8b95a3" textLength="34.5" lengthAdjust="spacing">Excel</text></g>
+</svg>

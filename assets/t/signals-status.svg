@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="30" viewBox="0 0 960 30" role="img" aria-label="signals: skills_radar  ·  language_radar  ·  status: healthy">
+<style>
+text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace; }
+.l0 { animation: ty 1.5s steps(60) 0.30s both; }
+@keyframes ty { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }.cur { opacity: 0; animation: on 0s 1.88s forwards, blink 1s steps(1) 1.88s infinite; }@keyframes on { to { opacity: 1; } } @keyframes blink { 50% { opacity: 0; } }.ok { animation: ok 2s ease-in-out infinite; } @keyframes ok { 50% { opacity: .45; } }@media (prefers-color-scheme: light) { .i { fill: #1f2328; } .m { fill: #59636e; } .g { fill: #1a7f37; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .ty { clip-path: none !important; } .sh { display: none; } }
+</style>
+<text class="ty l0 m" x="246.0" y="20" font-size="13" fill="#8b95a3" textLength="468.0" lengthAdjust="spacing">signals: skills_radar  ·  language_radar  ·  status: <tspan class="ok" fill="#1fbf75" font-weight="700">healthy</tspan></text><rect class="cur g" x="718.0" y="9" width="8" height="14" fill="#1fbf75"/>
+</svg>

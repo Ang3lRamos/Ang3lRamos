@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="366" height="26" viewBox="0 0 366 26" role="img" aria-label="Pytest · Vitest · Git · GitHub · VS Code · Vercel">
+<style>
+text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace; }
+.c0 { animation: pop .4s 2.35s both; }
+.c1 { animation: pop .4s 2.47s both; }
+.c2 { animation: pop .4s 2.59s both; }
+.c3 { animation: pop .4s 2.71s both; }
+.c4 { animation: pop .4s 2.83s both; }
+.c5 { animation: pop .4s 2.95s both; }@keyframes pop { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }@media (prefers-color-scheme: light) { rect { stroke: #d0d7de; } .m { fill: #59636e; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .ty { clip-path: none !important; } .sh { display: none; } }
+</style>
+<g class="c0"><rect x="0.5" y="2.5" width="57.4" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="8.0" y="16.5" font-size="11.5" fill="#8b95a3" textLength="41.4" lengthAdjust="spacing">Pytest</text></g><g class="c1"><rect x="63.9" y="2.5" width="57.4" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="71.4" y="16.5" font-size="11.5" fill="#8b95a3" textLength="41.4" lengthAdjust="spacing">Vitest</text></g><g class="c2"><rect x="127.3" y="2.5" width="36.7" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="134.8" y="16.5" font-size="11.5" fill="#8b95a3" textLength="20.7" lengthAdjust="spacing">Git</text></g><g class="c3"><rect x="170.0" y="2.5" width="57.4" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="177.5" y="16.5" font-size="11.5" fill="#8b95a3" textLength="41.4" lengthAdjust="spacing">GitHub</text></g><g class="c4"><rect x="233.4" y="2.5" width="64.3" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="240.9" y="16.5" font-size="11.5" fill="#8b95a3" textLength="48.3" lengthAdjust="spacing">VS Code</text></g><g class="c5"><rect x="303.7" y="2.5" width="57.4" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="311.2" y="16.5" font-size="11.5" fill="#8b95a3" textLength="41.4" lengthAdjust="spacing">Vercel</text></g>
+</svg>

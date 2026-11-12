@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="471" height="26" viewBox="0 0 471 26" role="img" aria-label="AWS · Terraform · Docker · GitHub Actions · CI/CD · Linux · Bash">
+<style>
+text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace; }
+.c0 { animation: pop .4s 1.35s both; }
+.c1 { animation: pop .4s 1.47s both; }
+.c2 { animation: pop .4s 1.59s both; }
+.c3 { animation: pop .4s 1.71s both; }
+.c4 { animation: pop .4s 1.83s both; }
+.c5 { animation: pop .4s 1.95s both; }
+.c6 { animation: pop .4s 2.07s both; }@keyframes pop { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }@media (prefers-color-scheme: light) { rect { stroke: #d0d7de; } .m { fill: #59636e; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .ty { clip-path: none !important; } .sh { display: none; } }
+</style>
+<g class="c0"><rect x="0.5" y="2.5" width="36.7" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="8.0" y="16.5" font-size="11.5" fill="#8b95a3" textLength="20.7" lengthAdjust="spacing">AWS</text></g><g class="c1"><rect x="43.2" y="2.5" width="78.1" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="50.7" y="16.5" font-size="11.5" fill="#8b95a3" textLength="62.1" lengthAdjust="spacing">Terraform</text></g><g class="c2"><rect x="127.3" y="2.5" width="57.4" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="134.8" y="16.5" font-size="11.5" fill="#8b95a3" textLength="41.4" lengthAdjust="spacing">Docker</text></g><g class="c3"><rect x="190.7" y="2.5" width="112.6" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="198.2" y="16.5" font-size="11.5" fill="#8b95a3" textLength="96.6" lengthAdjust="spacing">GitHub Actions</text></g><g class="c4"><rect x="309.3" y="2.5" width="50.5" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="316.8" y="16.5" font-size="11.5" fill="#8b95a3" textLength="34.5" lengthAdjust="spacing">CI/CD</text></g><g class="c5"><rect x="365.8" y="2.5" width="50.5" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="373.3" y="16.5" font-size="11.5" fill="#8b95a3" textLength="34.5" lengthAdjust="spacing">Linux</text></g><g class="c6"><rect x="422.3" y="2.5" width="43.6" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="429.8" y="16.5" font-size="11.5" fill="#8b95a3" textLength="27.6" lengthAdjust="spacing">Bash</text></g>
+</svg>

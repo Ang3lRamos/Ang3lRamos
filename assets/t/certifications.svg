@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="182" viewBox="0 0 960 182" role="img" aria-label="Certifications: Data Analysis · Python for Data Science · Power BI · Agile &amp; Scrum (Udemy) · Web Development Fundamentals (Egg Cooperation)">
+<style>
+text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace; }
+.l0 { animation: ty 0.48s steps(24) 0.30s both; }
+.l1 { animation: ty 0.3s steps(15) 0.86s both; }
+.l2 { animation: ty 0.5s steps(25) 1.24s both; }
+.l3 { animation: ty 0.2s steps(10) 1.82s both; }
+.l4 { animation: ty 0.46s steps(23) 2.10s both; }
+.l5 { animation: ty 0.96s steps(48) 2.64s both; }
+@keyframes ty { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }.cur { opacity: 0; animation: on 0s 3.68s forwards, blink 1s steps(1) 3.68s infinite; }@keyframes on { to { opacity: 1; } } @keyframes blink { 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .ty { clip-path: none !important; } .sh { display: none; } }
+</style>
+<rect x="0.5" y="0.5" width="959" height="181" rx="10" fill="#10141a" stroke="#222a33"/><text class="ty l0 " x="24" y="32" font-size="13" fill="#e4e7eb" font-weight="700" textLength="187.2" lengthAdjust="spacing"><tspan fill="#1fbf75">$</tspan> cat certifications.txt</text><text class="ty l1 m" x="24" y="60" font-size="13" fill="#8b95a3" textLength="117.0" lengthAdjust="spacing"><tspan fill="#1fbf75">✓</tspan> Data Analysis</text><text class="ty l2 m" x="24" y="82" font-size="13" fill="#8b95a3" textLength="195.0" lengthAdjust="spacing"><tspan fill="#1fbf75">✓</tspan> Python for Data Science</text><text class="ty l3 m" x="24" y="104" font-size="13" fill="#8b95a3" textLength="78.0" lengthAdjust="spacing"><tspan fill="#1fbf75">✓</tspan> Power BI</text><text class="ty l4 m" x="24" y="126" font-size="13" fill="#8b95a3" textLength="179.4" lengthAdjust="spacing"><tspan fill="#1fbf75">✓</tspan> Agile &amp; Scrum (Udemy)</text><text class="ty l5 m" x="24" y="148" font-size="13" fill="#8b95a3" textLength="374.4" lengthAdjust="spacing"><tspan fill="#1fbf75">✓</tspan> Web Development Fundamentals (Egg Cooperation)</text><rect class="cur" x="24" y="158" width="8" height="15" fill="#1fbf75"/>
+</svg>

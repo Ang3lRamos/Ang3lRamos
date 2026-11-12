@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="26" viewBox="0 0 364 26" role="img" aria-label="Azure Data Factory · Databricks · Spark · Airflow">
+<style>
+text { font-family: JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace; }
+.c0 { animation: pop .4s 0.85s both; }
+.c1 { animation: pop .4s 0.97s both; }
+.c2 { animation: pop .4s 1.09s both; }
+.c3 { animation: pop .4s 1.21s both; }@keyframes pop { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }@media (prefers-color-scheme: light) { rect { stroke: #d0d7de; } .m { fill: #59636e; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .ty { clip-path: none !important; } .sh { display: none; } }
+</style>
+<g class="c0"><rect x="0.5" y="2.5" width="140.2" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="8.0" y="16.5" font-size="11.5" fill="#8b95a3" textLength="124.2" lengthAdjust="spacing">Azure Data Factory</text></g><g class="c1"><rect x="146.7" y="2.5" width="85.0" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="154.2" y="16.5" font-size="11.5" fill="#8b95a3" textLength="69.0" lengthAdjust="spacing">Databricks</text></g><g class="c2"><rect x="237.7" y="2.5" width="50.5" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="245.2" y="16.5" font-size="11.5" fill="#8b95a3" textLength="34.5" lengthAdjust="spacing">Spark</text></g><g class="c3"><rect x="294.2" y="2.5" width="64.3" height="20" rx="10" fill="none" stroke="#222a33"/><text class="m" x="301.7" y="16.5" font-size="11.5" fill="#8b95a3" textLength="48.3" lengthAdjust="spacing">Airflow</text></g>
+</svg>
